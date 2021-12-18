@@ -1,16 +1,11 @@
 body, html {
     height: 100%;
-    background-image: url("../images/vhs-overlay-png.png");
+    background-color:black;
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     font-family: customFont;
-}
-
-@font-face {
-    font-family: customFont;
-    src: url("VCR_OSD_MONO_1.001[1].ttf");
 }
 
 h1 {
